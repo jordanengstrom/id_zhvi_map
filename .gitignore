@@ -1,0 +1,11 @@
+venv/
+.ipynb_checkpoints/
+__pycache__/
+.idea/
+.vscode/
+launch.json
+.DS_Store
+zhvi_data/
+.tool-versions
+cache/
+.env
